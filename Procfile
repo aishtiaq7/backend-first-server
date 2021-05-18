@@ -1,1 +1,1 @@
-"start": "node server.js"
+"service": "node server.js"
