@@ -1,0 +1,1 @@
+"service": "cd client && npm install && npm install && npm run build"
