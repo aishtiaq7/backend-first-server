@@ -1,1 +1,1 @@
-"service": "cd client && npm install && npm install && npm run build"
+"web: node server.js"
