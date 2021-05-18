@@ -1,7 +1,10 @@
 {
   "name": "first-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "backend attempts",
+  "engines": {
+    "node": "12.18.3"
+  },
   "main": "server.js",
   "scripts": {
     "start": "npm install && node server.js",
