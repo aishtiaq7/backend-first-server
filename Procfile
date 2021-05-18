@@ -1,1 +1,1 @@
-"start": "npm install && node server.js"
+"start": "node server.js"
